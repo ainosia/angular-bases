@@ -1,0 +1,15 @@
+h4 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+dd {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.buttons-container {
+  display: flex;
+  column-gap: .5rem;
+}
